@@ -18,7 +18,7 @@ import {
 } from '../../../../script.js';
 
 // 扩展名和设置初始化
-const PLUGIN_NAME = 'chat-history-backup';
+const PLUGIN_NAME = 'chat-history-backup2;
 const DEFAULT_SETTINGS = {
     maxBackupsPerChat: 3,  // 每个聊天保存的最大备份数量
     debug: true,           // 调试模式
